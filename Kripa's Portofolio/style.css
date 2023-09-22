@@ -7,7 +7,7 @@
 }
 
 body {
-    color: #081b29;
+    color:  #4B0082;
 }
 
 .header {
@@ -45,7 +45,7 @@ body {
 
 .navbar a{
     font-size: 16px;
-    color: #ededed;
+    color: #E6E6FA;
     text-decoration: none;
     font-weight: 500;
     margin-left: 25px;
@@ -54,7 +54,7 @@ body {
 
 .navbar a:hover,
 .navbar a.active {
-    color: #00abf0;
+    color: #9370DB;
 }
 
 .home {
